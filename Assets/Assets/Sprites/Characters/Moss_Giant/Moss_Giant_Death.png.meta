@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 0f4609685dffb4242b34b082e9261afe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Moss_Giant_Death_0
+  - first:
+      213: 21300002
+    second: Moss_Giant_Death_1
+  - first:
+      213: 21300004
+    second: Moss_Giant_Death_2
+  - first:
+      213: 21300006
+    second: Moss_Giant_Death_3
+  - first:
+      213: 21300008
+    second: Moss_Giant_Death_4
+  - first:
+      213: 21300010
+    second: Moss_Giant_Death_5
+  - first:
+      213: 21300012
+    second: Moss_Giant_Death_6
+  - first:
+      213: 21300014
+    second: Moss_Giant_Death_7
+  - first:
+      213: 21300016
+    second: Moss_Giant_Death_8
+  - first:
+      213: 21300018
+    second: Moss_Giant_Death_9
+  - first:
+      213: 21300020
+    second: Moss_Giant_Death_10
+  - first:
+      213: 21300022
+    second: Moss_Giant_Death_11
+  - first:
+      213: 21300024
+    second: Moss_Giant_Death_12
+  - first:
+      213: 21300026
+    second: Moss_Giant_Death_13
+  - first:
+      213: 21300028
+    second: Moss_Giant_Death_14
+  - first:
+      213: 21300030
+    second: Moss_Giant_Death_15
+  - first:
+      213: -6799037162908250334
+    second: Moss_Giant_Death_0
+  - first:
+      213: 8994613460524660109
+    second: Moss_Giant_Death_1
+  - first:
+      213: 2764075577351296866
+    second: Moss_Giant_Death_2
+  - first:
+      213: -1868238131487459795
+    second: Moss_Giant_Death_3
+  - first:
+      213: 4305503654151451631
+    second: Moss_Giant_Death_4
+  - first:
+      213: -1268726175404827307
+    second: Moss_Giant_Death_5
+  - first:
+      213: -7003423062508917268
+    second: Moss_Giant_Death_6
+  - first:
+      213: 6737963221835007001
+    second: Moss_Giant_Death_7
+  - first:
+      213: -2315108327276389883
+    second: Moss_Giant_Death_8
+  - first:
+      213: -6012711312478604429
+    second: Moss_Giant_Death_9
+  - first:
+      213: 4141910736014510118
+    second: Moss_Giant_Death_10
+  - first:
+      213: 639870471179302638
+    second: Moss_Giant_Death_11
+  - first:
+      213: -5666775881842761771
+    second: Moss_Giant_Death_12
+  - first:
+      213: -940326158150740239
+    second: Moss_Giant_Death_13
+  - first:
+      213: 4444486879208123592
+    second: Moss_Giant_Death_14
+  - first:
+      213: -2345265936134657272
+    second: Moss_Giant_Death_15
+  - first:
+      213: 3586217735361827740
+    second: Moss_Giant_Death_16
+  - first:
+      213: 255993013135450988
+    second: Moss_Giant_Death_17
+  - first:
+      213: 4007814057577149887
+    second: Moss_Giant_Death_18
+  - first:
+      213: -6369087664864484962
+    second: Moss_Giant_Death_19
+  - first:
+      213: -4613576311940551455
+    second: Moss_Giant_Death_20
+  - first:
+      213: 1139233387391788996
+    second: Moss_Giant_Death_21
+  - first:
+      213: -7621498746441128781
+    second: Moss_Giant_Death_22
+  - first:
+      213: -231235092571758335
+    second: Moss_Giant_Death_23
+  - first:
+      213: -6346060286053546164
+    second: Moss_Giant_Death_24
+  - first:
+      213: -2475944850361526065
+    second: Moss_Giant_Death_25
+  - first:
+      213: 6864368573888547245
+    second: Moss_Giant_Death_26
+  - first:
+      213: 8505907655593659870
+    second: Moss_Giant_Death_27
+  - first:
+      213: -4195137007666920154
+    second: Moss_Giant_Death_28
+  - first:
+      213: 2745085768384132283
+    second: Moss_Giant_Death_29
+  - first:
+      213: -8595546432830723564
+    second: Moss_Giant_Death_30
+  - first:
+      213: 1084398872875357195
+    second: Moss_Giant_Death_31
+  - first:
+      213: 2925978205332341544
+    second: Moss_Giant_Death_32
+  - first:
+      213: 8156521461743863124
+    second: Moss_Giant_Death_33
+  - first:
+      213: 4207617686288874364
+    second: Moss_Giant_Death_34
+  - first:
+      213: 5186449550296383650
+    second: Moss_Giant_Death_35
+  - first:
+      213: 826085155721458017
+    second: Moss_Giant_Death_36
+  - first:
+      213: -1515710082812847445
+    second: Moss_Giant_Death_37
+  - first:
+      213: 8960719655427383412
+    second: Moss_Giant_Death_38
+  - first:
+      213: 1449661458540431032
+    second: Moss_Giant_Death_39
+  - first:
+      213: 1770837275404309345
+    second: Moss_Giant_Death_40
+  - first:
+      213: -464231740988655623
+    second: Moss_Giant_Death_41
+  - first:
+      213: 8168146137983007532
+    second: Moss_Giant_Death_42
+  - first:
+      213: 4122971930630686075
+    second: Moss_Giant_Death_43
+  - first:
+      213: -9013259859412267508
+    second: Moss_Giant_Death_44
+  - first:
+      213: 4901650384464769466
+    second: Moss_Giant_Death_45
+  - first:
+      213: -4438710927948649918
+    second: Moss_Giant_Death_46
+  - first:
+      213: -4775980782545321828
+    second: Moss_Giant_Death_47
+  - first:
+      213: 5205453083738790672
+    second: Moss_Giant_Death_48
+  - first:
+      213: 5867350872101985735
+    second: Moss_Giant_Death_49
+  - first:
+      213: -7546612659458450516
+    second: Moss_Giant_Death_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moss_Giant_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f8c2229b7f4a1a0800000000000000
+      internalID: -6799037162908250334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f48e694943dc70800000000000000
+      internalID: 8994613460524660109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675b58c718fb5620800000000000000
+      internalID: 2764075577351296866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b9d8515fa216e0800000000000000
+      internalID: -1868238131487459795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f7dc03c830cb30800000000000000
+      internalID: 4305503654151451631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d51c5f344946ee0800000000000000
+      internalID: -1268726175404827307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceda06394d7dece90800000000000000
+      internalID: -7003423062508917268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9144f1bd9dd028d50800000000000000
+      internalID: 6737963221835007001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a54280e351fdfd0800000000000000
+      internalID: -2315108327276389883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3737db20bee8e8ca0800000000000000
+      internalID: -6012711312478604429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628858f9ed50b7930800000000000000
+      internalID: 4141910736014510118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee677e8adc641e800800000000000000
+      internalID: 639870471179302638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd20dfb519b51b0800000000000000
+      internalID: -5666775881842761771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6da6a575a43f2f0800000000000000
+      internalID: -940326158150740239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cca51cc44dfdad30800000000000000
+      internalID: 4444486879208123592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Death_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80baedc8e01f37fd0800000000000000
+      internalID: -2345265936134657272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4985f046b6df43d408fba8d1e2a4ab42
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
